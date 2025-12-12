@@ -4,5 +4,6 @@
 ## Структура файлов lib/
 
 ## QuickStart для android
-Скачать APK-файл
-Установить APK-файл
+### Скачать RecipeDelivery-apk.rar
+### Распаковать файл
+### Установить APK-файл на amdroid телефон
