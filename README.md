@@ -1,7 +1,8 @@
 # Recipe Delivery
+Приложение с рецептами, где для рецептов можно заказать продукты в нужном количестве.
 
-A new Flutter project.
+## Структура файлов lib/
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## QuickStart для android
+Скачать APK-файл
+Установить APK-файл
